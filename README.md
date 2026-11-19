@@ -145,4 +145,4 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
 ## Author
 
-Ibrahim Khan Mohammad· [LinkedIn](https://www.linkedin.com/in/ibrahimkhanmohammad/) · [GitHub](https://github.com/ibrahimkhanmohammad)
+Ibrahim Khan Mohammad · [LinkedIn](https://www.linkedin.com/in/ibrahimkhanmohammad/) · [GitHub](https://github.com/ibrahimkhanmohammad)
